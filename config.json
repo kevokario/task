@@ -1,0 +1,14 @@
+{
+    "APIs": {
+        "IpGeoLocation": {
+            "url": "https://api.ipgeolocation.io/ipgeo",
+            "APIKey": "xxx"
+        },
+        "TicketMaster": {
+            "url": "https://app.ticketmaster.com/discovery/v2/events.js",
+            "APIKey": "vbhGKF2CFJzuvzXg4J5XnIn7SGWYG9gE",
+            "secret": "xxx"
+        }
+    }
+}
+

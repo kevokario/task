@@ -1,0 +1,18 @@
+{
+  "name": "events-near-you",
+  "version": "1.0.0",
+  "description": "The problem being solved by this solution is being able to have quick access to a service uses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^9.4.0",
+    "public-ip": "^4.0.2",
+    "request": "^2.88.2"
+  }
+}
